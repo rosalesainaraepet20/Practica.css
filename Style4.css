@@ -37,3 +37,8 @@ body {
 .card__face--front {
   background-color: #ffffff;
 }
+.card__face--back {
+  background-color: #f44336;
+  transform: rotateY(180deg);
+  color: #fff;
+}
