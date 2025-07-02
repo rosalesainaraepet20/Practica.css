@@ -7,3 +7,6 @@ body {
     margin: 0;
     font-family: sans-serif;
 }
+.scene {
+    width: 200px;
+}
