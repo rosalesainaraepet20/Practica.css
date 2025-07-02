@@ -12,3 +12,6 @@ body {
     height: 300px;
     perspective: 1000px;
 }
+.card {
+    width: 100%;
+}
